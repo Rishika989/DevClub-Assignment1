@@ -308,3 +308,51 @@ letter-spacing: 0em;
 text-align: center;
 
 }
+.Page5{
+  height:100vh;
+  background:rgb(255, 255, 255);
+  box-sizing: border-box;
+
+}
+#footer{
+  height: 219px;
+width: 1430px;
+position:absolute;
+left: 40px;
+top: 3400px;
+
+background: rgb(102,0,51);
+border: 2px solid #E8AFCE;
+box-sizing: border-box;
+border-radius: 8px;
+color:#FFFFFF
+
+}
+#footer a{
+  position:relative;
+  left:480px;
+  top: 100px;
+  
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 1000;
+  line-height: 25px;
+  letter-spacing: 0.02em;
+  text-align: center; 
+}
+#yt a{
+  height: 66px;
+  width: 500px;
+  position:relative;
+  left: 650px;
+  top: 10px;
+  font-family:'Montserrat',sans-serif;
+  font-size: 54px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 66px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: rgb(102,0,51);
+}
