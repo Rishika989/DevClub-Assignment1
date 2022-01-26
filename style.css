@@ -344,6 +344,11 @@ text-align: center;
   box-sizing: border-box;
 
 }
+#video{
+positon:relative;
+  left:100px;
+  top:20px;
+}
 #footer{
   height: 219px;
 width: 1430px;
