@@ -394,8 +394,11 @@ color:#FFFFFF
 .fa {
   padding: 20px;
   margin: 5px 2px;
+  position:relative;
+  top:-10px;
+  left:40px;
   font-size: 30px;
-  width: 50px;
+  width: 30px;
 }
 .linkedin {   
   color: rgb(252,252,252);   
