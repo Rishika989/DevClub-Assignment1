@@ -393,17 +393,13 @@ color:#FFFFFF
 }
 .fa {
   padding: 20px;
-
-
-  margin: 6px 9px;
+  margin: 5px 2px;
   font-size: 30px;
   width: 50px;
 }
 .linkedin {   
-   
-  color: white;   
+  color: rgb(252,252,252);   
   }
 .github{
- 
-  color: white;  
+  color: rgb(252,252,252);  
 }
