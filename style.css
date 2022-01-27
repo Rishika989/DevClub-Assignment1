@@ -365,14 +365,14 @@ color:#FFFFFF
 }
 #footer a{
   position:relative;
-  left:590px;
+  left:630px;
   top: 100px;
   
   font-family: 'Roboto', sans-serif;
-  font-size: 25px;
+  font-size: 30px;
   font-style: normal;
-  font-weight: 1000;
-  line-height: 25px;
+  font-weight: 1100;
+  line-height: 28px;
   letter-spacing: 0.02em;
   text-align: center; 
 }
