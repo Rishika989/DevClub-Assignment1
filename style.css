@@ -365,7 +365,7 @@ color:#FFFFFF
 }
 #footer a{
   position:relative;
-  left:560px;
+  left:590px;
   top: 100px;
   
   font-family: 'Roboto', sans-serif;
@@ -390,4 +390,20 @@ color:#FFFFFF
   letter-spacing: 0em;
   text-align: center;
   color: rgb(102,0,51);
+}
+.fa {
+  padding: 20px;
+
+
+  margin: 6px 9px;
+  font-size: 30px;
+  width: 50px;
+}
+.linkedin {   
+   
+  color: white;   
+  }
+.github{
+ 
+  color: white;  
 }
